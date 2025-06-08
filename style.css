@@ -3,12 +3,12 @@ body{
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    min-height: 40vh; /* Ensures vertical centering */
-    max-width: 700px; /* Limits content width */
-    margin: auto; /* Centers content horizontally */
+    min-height: 40vh; 
+    max-width: 700px; 
+    margin: auto; 
     border: 5px solid rgb(48, 47, 47);
     border-radius: 20px; 
-    padding: 50px;
+    padding: 60px;
     background-color: rgb(243, 225, 225) !important;
 }
 header{
